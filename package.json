@@ -1,5 +1,5 @@
 {
-  "name": "buefy-table-projetos",
+  "name": "buefy-grid-projetos",
   "author": {
     "name": "Eduardo Gimenes",
     "email": "eduardogimenesph@gmail.com"
@@ -10,7 +10,7 @@
     "not ie <= 8"
   ],
   "bugs": {
-    "url": "https://github.com/buefy/buefy/issues"
+    "url": "https://github.com/eduardogimenesph/buefy-grid/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -95,7 +95,6 @@
     "src",
     "types/*.d.ts"
   ],
-  "homepage": "https://buefy.org",
   "keywords": [
     "bulma",
     "vue",
@@ -117,14 +116,13 @@
       "email": "tommsi20@gmail.com"
     }
   ],
-  "name": "buefy",
   "peerDependencies": {
     "vue": "^2.5.13"
   },
   "pre-commit": "lint:staged",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buefy/buefy.git"
+    "url": "git+https://github.com/eduardogimenesph/buefy-grid.git"
   },
   "scripts": {
     "build": "npm run build:lib && npm run build:docs",

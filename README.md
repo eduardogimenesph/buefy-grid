@@ -36,7 +36,7 @@ You need [Vue.js](https://vuejs.org/) **version 2.5+**.
 ### 1 Install via npm
 
 ```bash
-npm install buefy
+npm install buefy-grid-projetos
 ```
 
 ### 2 Import and use Buefy
